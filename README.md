@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to use AWS Cloud Computing to connect Computer Vision and Machine Learning techniques.
 - 💞️ I’m looking to collaborate on any projects related to Machine Learning.
 - 📫 How to reach me...
-      - email - lb987@scarletmail.rutgers.edu
+      - email - lnarayanan7@gatech.edu
       - Linkedin - www.linkedin.com/in/lokkit-babu
 
 <!---
