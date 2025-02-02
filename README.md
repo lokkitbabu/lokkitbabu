@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lokkitbabu
 - 👀 I’m interested in Machine Learning, Computational Engineering and Embedded Programming.
-- 🌱 I’m currently building my Sports Tech Startup.
 - 💞️ I’m looking to collaborate on any projects related to Machine Learning.
 - 📫 How to reach me...
       - email - lnarayanan7@gatech.edu
