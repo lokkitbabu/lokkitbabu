@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lokkitbabu
 - 👀 I’m interested in Machine Learning, Computational Engineering and Embedded Programming.
-- 💞️ I’m looking to collaborate on any projects related to Machine Learning.
 - 📫 How to reach me...
       - email - lnarayanan7@gatech.edu
       - Linkedin - www.linkedin.com/in/lokkit-babu
